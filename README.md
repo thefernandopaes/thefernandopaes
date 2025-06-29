@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 <p align="center">
   <a href="mailto:contact@mokaagency.com">
