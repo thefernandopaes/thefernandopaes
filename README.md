@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thefernandopaes&theme=dracula&hide_border=true&area=true" alt="Fernando Paes' GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thefernandopaes&theme=dracula&hide_border=true&area=true&cache_seconds=60" alt="Fernando Paes' GitHub Activity Graph" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 How to reach me:
 
 <p align="center">
   <a href="mailto:contact@mokaagency.com">
