@@ -13,11 +13,6 @@
 ---
 
 ### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thefernandopaes&show_icons=true&theme=dracula&rank_icon=default&hide_border=true&cache_seconds=60" alt="Fernando Paes' GitHub Stats" />
-  </a>
    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefernandopaes&layout=compact&theme=dracula&langs_count=8&hide_border=true&cache_seconds=60" alt="Fernando Paes' Top Languages" />
