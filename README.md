@@ -5,9 +5,7 @@
 <p align="center">
   I'm a Software Developer and Tech Enthusiast from Brazil, always looking to learn and build cool stuff.
   <br />
-  You can check out my work and thoughts on my personal website:
   <br />
-  <a href="https://fernandopaes.dev/" target="_blank"><strong>fernandopaes.dev</strong></a>
 </p>
 
 ---
